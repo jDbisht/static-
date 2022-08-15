@@ -298,6 +298,7 @@ border-color: #f1f1f1;
 @media (max-width: 800px) {
   .box3, .box4, .box5 {
     flex: 100%;
+    
   }
 }
 
@@ -309,7 +310,7 @@ border-color: #f1f1f1;
   }
 }
 @media (max-width: 800px) {
-  .flexbox-container {
+  .flexbox-container,.flexbox-container1,.flexbox-container2 {
     flex-direction: column;
   }
 }
